@@ -124,7 +124,6 @@
     "mocha-webpack": "^0.7.0",
     "node-sass": "^4.5.0",
     "postcss-loader": "^2.0.6",
-    "pre-commit": "^1.2.2",
     "prop-types": "^15.6.1",
     "react-addons-test-utils": "^15.6.0",
     "react-dom": "^15.6.1",
