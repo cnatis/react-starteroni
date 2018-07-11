@@ -9,3 +9,8 @@ A boilerplate for starting modern react projects with:
 * CSS Modules for styles
 * ESLint & Sass-Lint
 * Pre-commit githooks that checks if tests pass first
+
+## Running the application
+`npm install`
+`npm run dev:api`
+`npm run dev:app`
