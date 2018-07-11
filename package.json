@@ -41,12 +41,6 @@
       "\\.(css|scss)$": "identity-obj-proxy"
     }
   },
-  "pre-commit": [
-    "flow",
-    "test:jest",
-    "test:eslint",
-    "test:scss"
-  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sashimii/react-starteroni.git"
